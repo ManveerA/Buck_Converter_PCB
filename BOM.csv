@@ -1,0 +1,31 @@
+﻿Part Number,Reference,Value,Qty,Description,Datasheet,Footprint
+CGA4J3X7R1H155K125AB,C1,1.5u,1,1.5 ÂµF Â±10% 50V Ceramic Capacitor X7R 0805 (2012 Metric),https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_general_en.pdf,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+TMCP1D105MTRF,"C2,C6,C7,C8",1u,4,1 ÂµF Molded Tantalum Capacitors 20 V 0805 (2012 Metric) 11Ohm @ 100kHz,https://www.vishay.com/docs/40179/tmcp.pdf,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+100ZLH470MEFC16X31.5,C3,470u,1,"470 ÂµF 100 V Aluminum Electrolytic Capacitors Radial, Can 10000 Hrs @ 105Â°C",https://www.rubycon.co.jp/wp-content/uploads/catalog-aluminum/ZLH.pdf,Capacitor_THT:CP_Radial_D18.0mm_P7.50mm
+GRM21BC72A105KE01L,C4,1u,1,1 ÂµF Â±10% 100V Ceramic Capacitor X7S 0805 (2012 Metric),https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BC72A105KE01-01.pdf,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+GRM31CC72A475KE11L,C5,4.7u,1,4.7 ÂµF Â±10% 100V Ceramic Capacitor X7S 1206 (3216 Metric),https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CC72A475KE11-01A.pdf,Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+C0805C330K5GACTU,C9,33p,1,"33 pF Â±10% 50V Ceramic Capacitor C0G, NP0 0805 (2012 Metric)",https://search.kemet.com/download/datasheet/C0805C330K5GAC7800,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+F951C106MPAAQ2,C10,10u,1,10 ÂµF Conformal Coated Tantalum Capacitors 16 V 0805 (2012 Metric) 4Ohm,https://datasheets.kyocera-avx.com/F95.pdf,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+C0805C224K5RACTU,C11,220n,1,0.22 ÂµF Â±10% 50V Ceramic Capacitor X7R 0805 (2012 Metric),https://search.kemet.com/download/datasheet/C0805C224K5RAC7800,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+GRM21BR61E106KA73L,C12,10u,1,10 ÂµF Â±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric),https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR61E106KA73-01.pdf,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
+SS310,D1,----,1,Diode 100 V 3A Surface Mount DO-214AC (SMA),https://services.taiwansemi.com/storage/resources/datasheet/SS32%20SERIES_Q2412.pdf,Diode_SMD:D_SMA_Handsoldering
+LTST-C150GKT,"D2,D3,D4,D5,D7",----,5,Green 569nm LED Indication - Discrete 2.1V,https://optoelectronics.liteon.com/upload/download/DS-22-98-0004/LTST-C150GKT.pdf,LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+US2AA,D6,----,1,"50V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)",https://www.onsemi.com/pdf/datasheet/us2aa-d.pdf,Diode_SMD:D_SMA_Handsoldering
+BU-P72930-2,"J1,J2,J3,J4,J5",----,5,"Generic connector, single row, 01x01, script generated",https://www.muellerelectric.com/product_files/986/DS-BU-P72930-@.pdf,Connector:Banana_Jack_1Pin
+1468507C,"L1,L2,L3",6.8m,3,FIXED IND 6.8MH 700MA 2.3 OHM TH,https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1400.pdf,Inductor_THT:L_Radial_D24.4mm_P23.90mm_Murata_1400series
+IRF540NPBF,Q1,----,1,N-Channel 100 V 33A (Tc) 130W (Tc) Through Hole TO-220AB,https://www.infineon.com/dgdl/irf540npbf.pdf?fileId=5546d462533600a4015355e39f0d19a1,Package_TO_SOT_THT:TO-220-3_Vertical
+507302B00000G,Q1 Heatsink,----,1,Heatsink for MOSFET,https://info.boydcorp.com/hubfs/Thermal/Air-Cooling/Boyd-Board-Level-Heatsinks-Catalog.pdf,----
+4880G,Q1 Heatsink Mounting Kit,----,1,Mounting kit for heatsink for MOSFET,https://info.boydcorp.com/hubfs/Thermal/Air-Cooling/Boyd-Board-Level-Heatsinks-Catalog.pdf,----
+RC0805FR-0720KL,"R1,R4",20k,2,"20 kOhms Â±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+RMCF0805FT1K00,"R2,R3,R5,R13",1k,4,"1 kOhms Â±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film",https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+RMCF0805JT300R,R6,300R,1,"300 Ohms Â±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film",https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+RMCF0805FT120R,"R7,R8",120R,2,"120 Ohms Â±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thick Film",https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+RC0805FR-0751RL,R9,51R,1,"51 Ohms Â±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film",https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+RCS08056R80FKEA,R10,6.8R,1,"6.8 Ohms Â±1% 0.5W, 1/2W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film",https://www.vishay.com/docs/20065/rcse3.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+ERJ-P06J120V,R11,12R,1,"12 Ohms Â±5% 0.5W, 1/2W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film",https://industrial.panasonic.com/cdbs/www-data/pdf/RDO0000/AOA0000C331.pdf,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder
+RCP1206W50R0GEB,R12,50R,1,50 Ohms Â±2% 2.4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film,https://www.vishay.com/docs/31098/rcp.pdf,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+LM358DGKR,U1,----,1,General Purpose Amplifier 2 Circuit 8-VSSOP,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm358,Package_SO:VSSOP-8_3x3mm_P0.65mm
+LAUNCHXL-F28379D,U2,----,1,MCU Launchpad,https://www.ti.com/lit/pdf/sprui77,LAUNCHXL_F28379D:MOD_LAUNCHXL-F28379D
+TSW-110-07-F-D,U2 Pin Header,----,4,MCU header to connect to PCB,https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/6129/tsw-xxx-xx-xxx-x-xx-xxx-mkt.pdf,----
+UCC5304DWVR,U3,----,1,"4A, 6A Gate Driver Capacitive Coupling 5000Vrms 1 Channel 8-SOIC",https://www.ti.com/lit/gpn/ucc5304,UCC5304DWVR:SOIC8_DWV_TEX
+TMV 0512SHI,U4,----,1,Isolated Module DC DC Converter 1 Output 12V 84mA 4.5V - 5.5V Input,https://www.tracopower.com/products/tmv-hi.pdf,TMV_0512SHI:TMV-HI_SINGLE_TRP
