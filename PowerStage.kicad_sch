@@ -2021,7 +2021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_THT:L_Radial_D24.4mm_P23.90mm_Murata_1400series"
+		(property "Footprint" "Inductor_THT:L_Radial_D24.4mm_P23.10mm_Murata_1400series"
 			(at 107.95 30.48 0)
 			(effects
 				(font
@@ -2098,7 +2098,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_THT:L_Radial_D24.4mm_P23.90mm_Murata_1400series"
+		(property "Footprint" "Inductor_THT:L_Radial_D24.4mm_P23.10mm_Murata_1400series"
 			(at 97.79 30.48 0)
 			(effects
 				(font
@@ -2241,7 +2241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_THT:L_Radial_D24.4mm_P23.90mm_Murata_1400series"
+		(property "Footprint" "Inductor_THT:L_Radial_D24.4mm_P23.10mm_Murata_1400series"
 			(at 118.11 30.48 0)
 			(effects
 				(font
