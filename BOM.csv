@@ -26,7 +26,8 @@ ERJ-P06J120V,R11,12R,1,"12 Ohms Â±5% 0.5W, 1/2W Chip Resistor 0805 (2012 Metri
 RCP1206W50R0GEB,R12,50R,1,50 Ohms Â±2% 2.4W Chip Resistor 1206 (3216 Metric) Moisture Resistant Thick Film,https://www.vishay.com/docs/31098/rcp.pdf,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
 LM358AP,U1,----,1,General Purpose Amplifier 2 Circuit 8-PDIP,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm358,LM358AP:DIP794W45P254L959H508Q8
 LAUNCHXL-F28379D,U2,----,1,MCU Launchpad,https://www.ti.com/lit/pdf/sprui77,LAUNCHXL_F28379D:MOD_LAUNCHXL-F28379D
-61202021621,U2 Connection Header ,----,4,MCU header to connect to PCB,https://www.we-online.com/components/products/datasheet/61202021621.pdf,----
-971100244,PCB Standoffs,----,4,Mounting standoffs ,https://www.we-online.com/components/products/datasheet/971100244.pdf,----
+61202021621,U2 Connection Header ,----,4,"Connector Header Through Hole 20 position 0.100"" (2.54mm)",https://www.we-online.com/components/products/datasheet/61202021621.pdf,----
+971100154,PCB Standoffs,----,4,"Hex Standoff Threaded M2.5 Brass 0.394"" (10.00mm) Silver",https://www.we-online.com/components/products/datasheet/971100154.pdf,----
+4707,Standoff nuts,----,4,"M2.5x0.45 Hex Nut 0.197"" (5.00mm) Steel",https://www.keyelco.com/userAssets/file/M65p135.pdf,----
 UCC5304DWVR,U3,----,1,"4A, 6A Gate Driver Capacitive Coupling 5000Vrms 1 Channel 8-SOIC",https://www.ti.com/lit/gpn/ucc5304,UCC5304DWVR:SOIC8_DWV_TEX
 TMV 0512SHI,U4,----,1,Isolated Module DC DC Converter 1 Output 12V 84mA 4.5V - 5.5V Input,https://www.tracopower.com/products/tmv-hi.pdf,TMV_0512SHI:TMV-HI_SINGLE_TRP
