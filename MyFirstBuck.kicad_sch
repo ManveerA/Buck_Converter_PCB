@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Fullmetal Buck Converter")
-		(date "2025-02-24")
+		(date "2025-03-01")
 		(rev "v0")
 		(company "Manveer Aujla")
 	)
