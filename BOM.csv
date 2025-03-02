@@ -12,7 +12,7 @@ SS310,D1,----,1,Diode 100 V 3A Surface Mount DO-214AC (SMA),https://services.tai
 LTST-C150GKT,"D2,D3,D4,D5,D7",----,5,Green 569nm LED Indication - Discrete 2.1V,https://optoelectronics.liteon.com/upload/download/DS-22-98-0004/LTST-C150GKT.pdf,LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder
 US2AA,D6,----,1,"50V, 1.5A, General Purpose Rectifier Diode, SMA(DO-214AC)",https://www.onsemi.com/pdf/datasheet/us2aa-d.pdf,Diode_SMD:D_SMA_Handsoldering
 BU-P72930-2,"J1,J2,J3,J4,J5",----,5,"Generic connector, single row, 01x01, script generated",https://www.muellerelectric.com/product_files/986/DS-BU-P72930-@.pdf,Connector:Banana_Jack_1Pin
-1468507C,"L1,L2,L3",6.8m,3,FIXED IND 6.8MH 700MA 2.3 OHM TH,https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1400.pdf,Inductor_THT:L_Radial_D24.4mm_P23.90mm_Murata_1400series
+1468507C,"L1,L2,L3",6.8m,3,FIXED IND 6.8MH 700MA 2.3 OHM TH,https://search.murata.co.jp/Ceramy/image/img/P02A/kmp_1400.pdf,Inductor_THT:L_Radial_D24.4mm_P23.10mm_Murata_1400series
 IRF540NPBF,Q1,----,1,N-Channel 100 V 33A (Tc) 130W (Tc) Through Hole TO-220AB,https://www.infineon.com/dgdl/irf540npbf.pdf?fileId=5546d462533600a4015355e39f0d19a1,Package_TO_SOT_THT:TO-220-3_Vertical
 507302B00000G,Q1 Heatsink,----,1,Heatsink for MOSFET,https://info.boydcorp.com/hubfs/Thermal/Air-Cooling/Boyd-Board-Level-Heatsinks-Catalog.pdf,----
 4880G,Q1 Heatsink Mounting Kit,----,1,Mounting kit for heatsink for MOSFET,https://info.boydcorp.com/hubfs/Thermal/Air-Cooling/Boyd-Board-Level-Heatsinks-Catalog.pdf,----
