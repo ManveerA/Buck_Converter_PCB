@@ -17675,7 +17675,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Fullmetal Buck Converter\nv0 - 24 Feb 2025\nManveer Aujla\nAlice Seo"
+	(gr_text "Fullmetal Buck Converter\nv0 - 01 Mar 2025\nManveer Aujla\nAlice Seo"
 		(at 53 77.2 0)
 		(layer "F.SilkS")
 		(uuid "d5809062-c9ff-4efe-abbc-90d0a88b308d")
