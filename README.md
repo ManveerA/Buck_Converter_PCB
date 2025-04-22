@@ -1,4 +1,5 @@
 Repository for Buck Converter PCB design project for ELEC-4450 Power Electronics.
+See ELEC-4500 - Project Report.pdf for pictures of the board and see ELEC-4500 - Preliminary Design.pdf for the simulations and initial design.
 
 Author: Manveer Aujla
 
